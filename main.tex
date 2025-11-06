@@ -1,0 +1,89 @@
+\documentclass[11pt]{article}
+
+% ----------------------------------------------------
+%              PACKAGES
+% ----------------------------------------------------
+\usepackage[utf8]{inputenc}    % UTF-8 support
+\usepackage[T1]{fontenc}       % Modern font encoding
+\usepackage{lmodern}           % Better Latin Modern fonts
+
+\usepackage{geometry}          % Page geometry
+\geometry{margin=1in}
+
+\usepackage{amsmath, amssymb, amsthm}  % Math packages
+\usepackage{mathtools}                 % Math extensions
+
+\usepackage{graphicx}         % Include images
+\usepackage{float}            % Better float control
+
+\usepackage{hyperref}         % Clickable links
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+}
+
+\usepackage{enumitem}         % Better lists
+\setlist{nosep}
+
+\usepackage{csquotes}         % Better quotation handling
+
+\usepackage{microtype}        % Better spacing and justification
+
+% ----------------------------------------------------
+%              TITLE INFO
+% ----------------------------------------------------
+\title{Your Document Title}
+\author{Your Name}
+\date{\today}
+
+% ----------------------------------------------------
+%              DOCUMENT BODY
+% ----------------------------------------------------
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This is where your abstract or summary goes.
+\end{abstract}
+
+\section{Introduction}
+
+This is a clean boilerplate \LaTeX{} template suitable for reports, notes, homework, or papers.
+
+\subsection{Example math}
+Here is some inline math: \( E = mc^2 \)
+
+And displayed math:
+\[
+\nabla \cdot \vec{E} = \frac{\rho}{\varepsilon_0}.
+\]
+
+\section{Examples}
+
+\subsection{An itemized list}
+\begin{itemize}
+    \item First item
+    \item Second item
+    \item Third item
+\end{itemize}
+
+\subsection{Including an image}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{example-image}
+    \caption{Example caption.}
+    \label{fig:example}
+\end{figure}
+
+\section{Conclusion}
+
+Your conclusion goes here.
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
+

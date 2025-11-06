@@ -1,89 +1,54 @@
-\documentclass[11pt]{article}
+\documentclass[12pt]{article}
 
-% ----------------------------------------------------
-%              PACKAGES
-% ----------------------------------------------------
-\usepackage[utf8]{inputenc}    % UTF-8 support
-\usepackage[T1]{fontenc}       % Modern font encoding
-\usepackage{lmodern}           % Better Latin Modern fonts
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\setstretch{1.2}
 
-\usepackage{geometry}          % Page geometry
-\geometry{margin=1in}
-
-\usepackage{amsmath, amssymb, amsthm}  % Math packages
-\usepackage{mathtools}                 % Math extensions
-
-\usepackage{graphicx}         % Include images
-\usepackage{float}            % Better float control
-
-\usepackage{hyperref}         % Clickable links
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    citecolor=blue,
-    urlcolor=blue
+\title{Lab 2: Lenses}
+\author{
+    Anthony Shea \\[0.3em]
+    Course Number: PHYS 353 \\
+    Lab Section: 3 \\[0.3em]
+    Institution: Colorado State University \\[0.3em]
+    Lab Partner: Jesse Kiedrowski \\[0.3em]
+    Lab Partner: Ellen Raad
 }
-
-\usepackage{enumitem}         % Better lists
-\setlist{nosep}
-
-\usepackage{csquotes}         % Better quotation handling
-
-\usepackage{microtype}        % Better spacing and justification
-
-% ----------------------------------------------------
-%              TITLE INFO
-% ----------------------------------------------------
-\title{Your Document Title}
-\author{Your Name}
 \date{\today}
 
-% ----------------------------------------------------
-%              DOCUMENT BODY
-% ----------------------------------------------------
 \begin{document}
 
 \maketitle
 
-\begin{abstract}
-This is where your abstract or summary goes.
-\end{abstract}
+\section{Objective}
 
-\section{Introduction}
 
-This is a clean boilerplate \LaTeX{} template suitable for reports, notes, homework, or papers.
 
-\subsection{Example math}
-Here is some inline math: \( E = mc^2 \)
+\section{Theory}
 
-And displayed math:
-\[
-\nabla \cdot \vec{E} = \frac{\rho}{\varepsilon_0}.
-\]
+Uncertainty in a Function of Several Variables
 
-\section{Examples}
+\begin{equation}
+\delta q = \sqrt{(\frac{\partial q}{\partial x} \delta x)^2 + ... + (\frac{\partial q}{\partial z} \delta z)^2 }
+\end{equation}
 
-\subsection{An itemized list}
-\begin{itemize}
-    \item First item
-    \item Second item
-    \item Third item
-\end{itemize}
+This was from An Introduction to Error Analysis by John R. Taylor equation 3.47 \cite[p.~75]{taylor}.
 
-\subsection{Including an image}
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.6\textwidth]{example-image}
-    \caption{Example caption.}
-    \label{fig:example}
-\end{figure}
 
-\section{Conclusion}
 
-Your conclusion goes here.
+\section{Experimental Procedure}
+
+
+
+\section{Experimental Results and Analysis}
+
+
+
+\section{Conclusions}
+
+
 
 \bibliographystyle{plain}
-\bibliography{references}
-
+\bibliography{biblio}
 \end{document}
-

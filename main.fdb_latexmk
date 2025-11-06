@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1762453223.30446 "main.aux" "main.bbl" "main" 1762453285.98612 0
-  "./biblio.bib" 1762453165.59734 385 56a82c3e13900ce240b58abd9f4732f8 ""
+["bibtex main"] 1762453834.97823 "main.aux" "main.bbl" "main" 1762454091.58462 0
+  "./biblio.bib" 1762453834.7583 553 f46419c8bd1c781658fff27dc1f1acc0 ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1762453285.76629 667 d41ba32684c49de16044a505d6daed27 "pdflatex"
+  "main.aux" 1762454091.36976 888 e2f3466f454ebecd566604667ae17fd1 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1762453285.40786 "/Users/AnthonyGeraldShea1/workspace/github.com/Anthony-Shea/Labs/OpticsLab2Lenses/main.tex" "main.pdf" "main" 1762453285.98627 0
-  "/Users/AnthonyGeraldShea1/workspace/github.com/Anthony-Shea/Labs/OpticsLab2Lenses/main.tex" 1762453285.19727 1151 21fbbea7a14cdfc230f3432bf08a9325 ""
+["pdflatex"] 1762454090.95001 "/Users/AnthonyGeraldShea1/workspace/github.com/Anthony-Shea/Labs/OpticsLab2Lenses/main.tex" "main.pdf" "main" 1762454091.58476 0
+  "/Users/AnthonyGeraldShea1/workspace/github.com/Anthony-Shea/Labs/OpticsLab2Lenses/main.tex" 1762454090.77707 1593 b15a826cc8801fe6f5d68ac7764305a4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -32,6 +32,7 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1248133631 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty" 1734129479 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
@@ -65,9 +66,10 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1762372441 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1762453285.76629 667 d41ba32684c49de16044a505d6daed27 "pdflatex"
-  "main.bbl" 1762453223.41896 371 31100623e0b58a573f98003fee36fc58 "bibtex main"
-  "main.tex" 1762453285.19727 1151 21fbbea7a14cdfc230f3432bf08a9325 ""
+  "ThinLens.JPG" 1762454018.13837 3732820 3fd52aea9a7b8142c8f1ae16b1e3484b ""
+  "main.aux" 1762454091.36976 888 e2f3466f454ebecd566604667ae17fd1 "pdflatex"
+  "main.bbl" 1762453835.07918 371 31100623e0b58a573f98003fee36fc58 "bibtex main"
+  "main.tex" 1762454090.77707 1593 b15a826cc8801fe6f5d68ac7764305a4 ""
   (generated)
   "main.aux"
   "main.log"

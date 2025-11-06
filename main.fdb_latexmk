@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1762453223.30446 "main.aux" "main.bbl" "main" 1762453260.34795 0
+["bibtex main"] 1762453223.30446 "main.aux" "main.bbl" "main" 1762453285.98612 0
   "./biblio.bib" 1762453165.59734 385 56a82c3e13900ce240b58abd9f4732f8 ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1762453260.11722 667 d41ba32684c49de16044a505d6daed27 "pdflatex"
+  "main.aux" 1762453285.76629 667 d41ba32684c49de16044a505d6daed27 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1762453259.74668 "/Users/AnthonyGeraldShea1/workspace/github.com/Anthony-Shea/Labs/OpticsLab2Lenses/main.tex" "main.pdf" "main" 1762453260.34808 0
-  "/Users/AnthonyGeraldShea1/workspace/github.com/Anthony-Shea/Labs/OpticsLab2Lenses/main.tex" 1762453259.56148 1150 ca1ecac81e23e1df2a92fb7a4fde081e ""
+["pdflatex"] 1762453285.40786 "/Users/AnthonyGeraldShea1/workspace/github.com/Anthony-Shea/Labs/OpticsLab2Lenses/main.tex" "main.pdf" "main" 1762453285.98627 0
+  "/Users/AnthonyGeraldShea1/workspace/github.com/Anthony-Shea/Labs/OpticsLab2Lenses/main.tex" 1762453285.19727 1151 21fbbea7a14cdfc230f3432bf08a9325 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -65,9 +65,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1762372441 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1762453260.11722 667 d41ba32684c49de16044a505d6daed27 "pdflatex"
+  "main.aux" 1762453285.76629 667 d41ba32684c49de16044a505d6daed27 "pdflatex"
   "main.bbl" 1762453223.41896 371 31100623e0b58a573f98003fee36fc58 "bibtex main"
-  "main.tex" 1762453259.56148 1150 ca1ecac81e23e1df2a92fb7a4fde081e ""
+  "main.tex" 1762453285.19727 1151 21fbbea7a14cdfc230f3432bf08a9325 ""
   (generated)
   "main.aux"
   "main.log"
